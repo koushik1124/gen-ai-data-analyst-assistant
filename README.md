@@ -18,7 +18,7 @@ It is designed for professionals, students, and businesses who want quick insigh
 
 ## 🎥 Demo  
 ![Demo Screenshot](assets/demo.png)  
-*(Replace with actual screenshot or GIF of the app in action)*  
+
 
 ---
 
